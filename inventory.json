@@ -1,0 +1,16 @@
+[
+    {
+        "product_id": "P101",
+        "name": "Notebook",
+        "price": 50.0,
+        "quantity": 20,
+        "product_type": "physical"
+    },
+    {
+        "product_id": "D101",
+        "name": "Python E-book",
+        "price": 199.0,
+        "quantity": 50,
+        "product_type": "digital"
+    }
+]

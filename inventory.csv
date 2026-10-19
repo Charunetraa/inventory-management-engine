@@ -1,0 +1,3 @@
+product_id,name,price,quantity,product_type
+P101,Notebook,50.0,20,physical
+D101,Python E-book,199.0,50,digital
